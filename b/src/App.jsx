@@ -174,7 +174,7 @@ const Elbem = () => {
         <div className='flex flex-col gap-3 justify-center items-center mt-6 animate__animated animate__fadeInUp animate__delay-1s'>
           <div className='text-2xl text-sky-500 font-black '> 蓝色 === 团结一致，发奋图强</div>
           <div className='text-2xl text-rose-500 font-black'>红色 === 友爱，温馨</div>
-          <div className='text-2xl text-slate-100 font-black'>白色 === 美好的未来</div>
+          <div className='text-2xl text-slate-100 font-black'>白色 === 美好未来</div>
         </div>
       </div>
       <div className="flex flex-row items-center gap-2 absolute bottom-10 right-10">
